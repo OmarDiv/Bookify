@@ -1,4 +1,3 @@
-
 # Bookify 📚 (.NET 7 MVC Web App)
 
 Bookify is a modern, scalable library management system designed for book rental, subscriber management, and staff operations. It leverages best practices in .NET development, robust security, and a clean, maintainable architecture.
