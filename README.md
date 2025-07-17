@@ -1,6 +1,3 @@
-تفضل النسخة الجاهزة للنسخ واللصق، مع إضافة روابط التواصل كما طلبت:
-
----
 
 # Bookify 📚 (.NET 7 MVC Web App)
 
@@ -209,5 +206,3 @@ This project is licensed under MIT.
 _Bookify is an independent project and not affiliated with any company or organization._
 
 ---
-
-لو عاوز أي تعديل أو إضافة بلغني!
